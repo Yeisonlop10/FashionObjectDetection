@@ -4,3 +4,4 @@ pyyaml
 streamlit
 ultralytics
 onnx
+onnxruntime

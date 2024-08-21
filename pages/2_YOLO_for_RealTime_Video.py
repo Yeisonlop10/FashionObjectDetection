@@ -1,7 +1,7 @@
 import streamlit as st
 from streamlit_webrtc import webrtc_streamer
 import av
-from yolo_predictions_Yeison import YOLO_Pred
+from yolo_predictions_Yeison_Fashion import YOLO_Pred
 
 # Load YOLO Model
 yolo = YOLO_Pred(onnx_model='./models/best.onnx',

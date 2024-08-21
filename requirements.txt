@@ -1,4 +1,8 @@
-opencv-python
+opencv-python-headless
 numpy
 pyyaml
 streamlit
+ultralytics
+onnx
+onnxruntime
+streamlit_webrtc
